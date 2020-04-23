@@ -7,7 +7,3 @@ print ('Hello World')  #jest komentarz
 
 
 
-
-
-
-
